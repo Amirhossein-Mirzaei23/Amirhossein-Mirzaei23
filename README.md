@@ -99,27 +99,14 @@
 
 
 <br/>  
-## My Rewards
+<div align="center">
+   
 [![Trophies](https://github-profile-trophy.vercel.app/?username=Amirhossein-Mirzaei23&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
-## Recent Blog Posts  
-  
-
-<br/>  
-
-  
-
-<br/>  
-
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=rishavanand&&style=flat-square" align="center" />
+<img src="https://komarev.com/ghpvc/?username=Amirhossein-Mirzaei23&&style=flat-square" align="center" />
 </div>  
-  
 
-<br/>  
+</div>
 
 
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
