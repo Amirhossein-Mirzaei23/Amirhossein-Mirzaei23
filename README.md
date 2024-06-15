@@ -20,9 +20,19 @@
 
 ## My Skill Set  
 
+<table>
+   <tr>
+    <th> Frontend</th>
+    <th> Backend</th>
+   
+  </tr>
+  <tr>
+    <td>
+   
 
-### Frontend  
-<div  align="center" style="display: grid;grid-template-columns: repeat(5, 1fr);gap: 10px;grid-auto-rows: minmax(100px, auto);" >  
+
+
+<div  align="center" >  
   <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/640px-HTML5_logo_and_wordmark.svg.png" alt="HTML5" height="50" /></a>  
   <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/640px-CSS3_logo_and_wordmark.svg.png" alt="CSS3" height="50" /></a> 
 <a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" alt="Tailwind CSS" height="50" /></a>  
@@ -35,17 +45,22 @@
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/640px-Git_icon.svg.png" alt="Git" height="50" /></a>  
  
 </div>
+</td>
+  <td>
 
-### Backend  
-<div align="center" style="display: grid;grid-template-columns: repeat(2, 1fr);gap: 10px;grid-auto-rows: minmax(100px, auto);" >  
+    
+
+
+<div align="center" >  
 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/640px-Unofficial_JavaScript_logo_2.svg.png" alt="JavaScript" height="50" /></a>  
 <a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Antu_mongodb.svg/640px-Antu_mongodb.svg.png" alt="MongoDB" height="50" /></a> 
 <a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/640px-Node.js_logo.svg.png" alt="Node.js" height="50" /></a>  
 
 <a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://img.icons8.com/?size=40&id=WNoJgbzDr3i2&format=png" alt="Express.js" height="50" /></a>    
 </div>
-
-
+</td>
+  </tr>
+</table>
 
 <br/>  
 
