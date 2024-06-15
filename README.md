@@ -1,9 +1,13 @@
-<div align="center">
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
-  
+<div align="center">
 
-### <div align="center">I'm Amirhossein Mirzaei, a full-time front tend  developer 👨‍💻 working  since 2023 🚀  
+</div>  
+   <img align="right" src="https://octodex.github.com/images/welcometocat.png" width="300">
+<div>
+  <div  align="center"  >I'm Amirhossein Mirzaei, a full-time front tend  developer 👨‍💻 working  since 2023 🚀  </div>
+  
+ <div width="50%" align="start">
+
   
 
 - 🔭 I’m currently working on a full stack cms project  
@@ -15,7 +19,11 @@
 - ❓ Ask me about anything related to front end  and related technologies --> amirhmirzaei747@gmail.com  
   
 </div>
+  
+</div>
 <br/>  
+
+
 
 
 ## My Skill Set  
