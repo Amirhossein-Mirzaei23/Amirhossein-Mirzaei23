@@ -19,7 +19,7 @@
 
 
 ## My Skill Set  
-<table><tr><td valign="top" width="33%">
+<table><tr><td valign="top" width="50%">
 
 
 
@@ -40,7 +40,7 @@
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/640px-Git_icon.svg.png" alt="Git" height="50" /></a>  
 </div>
 
-</td><td valign="top" width="33%">
+</td><td valign="top" width="50%">
 
 
 
@@ -53,11 +53,8 @@
 <a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://img.icons8.com/?size=40&id=WNoJgbzDr3i2&format=png" alt="Express.js" height="50" /></a>    
 </div>
 
-</td><td valign="top" width="33%">
-
-
-
-</td></tr></table>  
+</td>
+</tr></table>  
 
 <br/>  
 
