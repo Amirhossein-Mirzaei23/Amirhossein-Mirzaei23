@@ -41,7 +41,7 @@
 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/640px-Unofficial_JavaScript_logo_2.svg.png" alt="JavaScript" height="50" /></a>  
 <a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Antu_mongodb.svg/640px-Antu_mongodb.svg.png" alt="MongoDB" height="50" /></a> 
 <a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/640px-Node.js_logo.svg.png" alt="Node.js" height="50" /></a>  
-<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Linux_mascot_tux.png/640px-Linux_mascot_tux.png" alt="Linux" alt="Linux" height="50" /></a>  
+
 <a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://img.icons8.com/?size=40&id=WNoJgbzDr3i2&format=png" alt="Express.js" height="50" /></a>    
 </div>
 
