@@ -19,8 +19,8 @@
 
 
 ## My Skill Set  
-<table >
-  <tr>
+<table  width="100%" >
+  <tr  width="100%">
   <td valign="top" width="50%">
 
 
@@ -42,7 +42,7 @@
 <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Linux_mascot_tux.png/640px-Linux_mascot_tux.png" alt="Linux" height="50" /></a>  
 </div>
 </td>
-<td valign="top" width="10%">
+<td valign="top" width="50%">
 
 
 
