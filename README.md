@@ -26,7 +26,7 @@
 
 
 ### Frontend  
-<div align="center">  
+<div background-color='#fff'  display='flex' align="center">  
   <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/640px-HTML5_logo_and_wordmark.svg.png" alt="HTML5" height="50" /></a>  
   <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/640px-CSS3_logo_and_wordmark.svg.png" alt="CSS3" height="50" /></a>  
   
@@ -39,16 +39,10 @@
 <a href="https://vuejs.org/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/640px-Vue.js_Logo_2.svg.png" alt="Vue.js" height="50" /></a>  
 <a href="https://nuxtjs.org/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Nuxt_logo_%282021%29.svg/640px-Nuxt_logo_%282021%29.svg.png" height="50" /></a>  
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/640px-Git_icon.svg.png" alt="Git" height="50" /></a>  
-<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Linux_mascot_tux.png/640px-Linux_mascot_tux.png" alt="Linux" height="50" /></a>  
+ 
 </div>
 </td>
-<td valign="top" width="50%">
-
-
-
-
-
-
+<td valign="top" width="10%">
 ### Backend  
 <div align="center">  
 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/640px-Unofficial_JavaScript_logo_2.svg.png" alt="JavaScript" height="50" /></a>  
