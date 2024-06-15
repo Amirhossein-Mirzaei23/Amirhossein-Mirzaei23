@@ -99,7 +99,8 @@
 
 
 <br/>  
-
+## My Rewards
+[![Trophies](https://github-profile-trophy.vercel.app/?username=taozhi8833998&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## Recent Blog Posts  
   
