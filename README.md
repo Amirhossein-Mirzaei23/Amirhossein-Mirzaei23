@@ -85,7 +85,7 @@
 
 
 ## Github Stats  
-<!------<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Amirhossein-Mirzaei23&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  --->
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Amirhossein-Mirzaei23&show_icons=true&count_private=true&hide_border=true" align="center" /></div>
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Amirhossein-Mirzaei23)](https://github.com/anuraghazra/github-readme-stats)
 
 <br/>  
