@@ -19,7 +19,9 @@
 
 
 ## My Skill Set  
-<table><tr style="background: #fcfcfc;"  ><td valign="top" width="50%">
+<table >
+  <tr>
+  <td valign="top" width="50%">
 
 
 
@@ -38,8 +40,10 @@
 <a href="https://nuxtjs.org/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Nuxt_logo_%282021%29.svg/640px-Nuxt_logo_%282021%29.svg.png" height="50" /></a>  
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/640px-Git_icon.svg.png" alt="Git" height="50" /></a>  
 <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Linux_mascot_tux.png/640px-Linux_mascot_tux.png" alt="Linux" height="50" /></a>  
-</td><td valign="top" width="50%">
 </div>
+</td>
+<td valign="top" width="50%">
+
 
 
 
@@ -55,7 +59,8 @@
 </div>
 
 </td>
-</tr></table>  
+</tr>
+</table>  
 
 <br/>  
 
