@@ -1,11 +1,10 @@
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-<h1 align="center">Hi, I'm Amirhossein Mirzaei  👋 </h1>
-<div align="center">
+  <img align="right" src="https://octodex.github.com/images/welcometocat.png" width="300">
+<h1 align="left">Hi, I'm Amirhossein Mirzaei  👋 </h1>
 
-</div>  
-   <img align="right" src="https://octodex.github.com/images/welcometocat.png" width="300">
+ 
 <div>
-  <div  align="center"  >a full-time front tend  developer 👨‍💻 working  since 2023 🚀  </div>
+  <div  align="left"  >a full-time front tend  developer 👨‍💻 working  since 2023 🚀  </div>
   
  <div width="50%" align="start">
 
