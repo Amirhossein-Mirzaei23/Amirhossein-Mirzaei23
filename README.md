@@ -10,10 +10,10 @@
 
   
 
-- 🔭 I’m currently working on a full stack cms project  
+- 🔭 I’m currently working on a full stack project  
   
 
-- 🌱 I’m currently learning  socket.io  
+- 🌱 also I’m currently learning  socket.io  
   
 
 - ❓ Ask me about anything related to front end  and related technologies --> amirhmirzaei747@gmail.com  
