@@ -4,7 +4,7 @@
 
  
 <div>
-  <div  align="left"  >a full-time front tend  developer 👨‍💻 working  since 2023 🚀  </div>
+  <div  align="left"  >A full-time front tend  developer 👨‍💻 working  since 2023 🚀  </div>
   
  <div width="50%" align="start">
 
