@@ -100,7 +100,7 @@
 <br/>  
 <div align="center">
    
-[![Trophies](https://github-profile-trophy.vercel.app/?username=Amirhossein-Mirzaei23&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![Trophies](https://github-profile-trophy.vercel.app/?username=Amirhossein-Mirzaei23&theme=matrix)]
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=Amirhossein-Mirzaei23&&style=flat-square" align="center" />
