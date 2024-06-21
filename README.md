@@ -100,7 +100,7 @@
 <br/>  
 
 
-## Github Trophies with matrix theme 
+## Github Trophies on matrix  
 
 <div align="center">
    
