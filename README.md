@@ -100,7 +100,7 @@
 <br/>  
 
 
-## Github Trophies on matrix  
+## Github Trophies
 
 <div align="center">
    
