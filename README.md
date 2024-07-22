@@ -47,8 +47,8 @@
   <img src="https://img.shields.io/badge/nuxtjs-2EC866?style=for-the-badge&logo=nuxt.js&logoColor=white" alt="nuxt.js"/>
 </div>
 <div>
-    <img src="https://img.shields.io/badge/nodejs-2EC866?style=for-the-badge&logo=nuxt.js&logoColor=white" alt="node.js"/>
-   <img src="https://img.shields.io/badge/experessjs-2EC866?style=for-the-badge&logo=nuxt.js&logoColor=white" alt="node.js"/>
+    <img src="https://img.shields.io/badge/nodejs-2EC866?style=for-the-badge&logo=node.js&logoColor=white" alt="node.js"/>
+   <img src="https://img.shields.io/badge/expressjs-2EC866?style=for-the-badge&logo=express.js&logoColor=white" alt="node.js"/>
 </div>
 
 <div  align="center" >  
