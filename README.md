@@ -86,7 +86,8 @@
       <img src="https://img.shields.io/badge/mongodb-2EC866?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb"/>
 </a> 
 <a href="https://nodejs.org/" target="_blank">
-      <img alt="Node.js" src="https://img.shields.io/node/v-lts/:packageName">
+    <img alt="Node Current (with tag)" src="https://img.shields.io/node/v/:packageName/:tag">
+
 
 </a>  
 <a href="https://expressjs.com/" target="_blank">
