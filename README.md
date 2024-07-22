@@ -98,7 +98,7 @@
       <img src="https://img.shields.io/badge/javascript-3a464b?style=for-the-badge&logo=javascript&logoColor=dark" alt="javascript"/>
 </a>  
 <a href="https://www.mongodb.com/" target="_blank">
-      <img src="https://img.shields.io/badge/mongodb-2EC866?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb"/>
+      <img src="https://img.shields.io/badge/mongodb-ccffcc?style=for-the-badge&logo=mongodb&logoColor=green" alt="mongodb"/>
 </a> 
 <a href="https://nodejs.org/" target="_blank">
     <img alt="Node Current (with tag)" src="https://img.shields.io/badge/nodejs-2EC866?style=for-the-badge&logo=nodejs&logoColor=white" />
