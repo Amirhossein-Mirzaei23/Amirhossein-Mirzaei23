@@ -47,10 +47,10 @@
   </a> 
 
 <a href="https://sass-lang.com/" target="_blank">
-    <img src="https://img.shields.io/badge/saas-3a464b?style=for-the-badge&logo=javascript&logoColor=yellow" alt="saas"/>
+    <img src="https://img.shields.io/badge/saas-3a464b?style=for-the-badge&logo=saas&logoColor=pink" alt="saas"/>
 </a>
   <a href="https://www.tailwindcss.com/" target="_blank">
-  <img src="https://img.shields.io/badge/tailwindcss-3a464b?style=for-the-badge&logo=javascript&logoColor=yellow" alt="tailwindcss"/>
+  <img src="https://img.shields.io/badge/tailwindcss-3a464b?style=for-the-badge&logo=tailwindcss&logoColor=sky" alt="tailwindcss"/>
 </a>  
   <a href="https://quasar.dev/" target="_blank"><img style="margin: 10px" src="https://cdn.quasar.dev/logo-v2/svg/logo-dark.svg" height="30" /></a>  
   <img src="https://img.shields.io/badge/javascript-3a464b?style=for-the-badge&logo=javascript&logoColor=yellow" alt="javascript"/>
