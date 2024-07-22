@@ -70,16 +70,23 @@
 
 <div align="center" >  
   <div>
+  
+  <a href="https://www.javascript.com/" target="_blank">
       <img src="https://img.shields.io/badge/javascript-3a464b?style=for-the-badge&logo=javascript&logoColor=dark" alt="javascript"/>
-    <img src="https://img.shields.io/badge/nodejs-2EC866?style=for-the-badge&logo=node.js&logoColor=white" alt="node.js"/>
-   <img src="https://img.shields.io/badge/expressjs-2EC866?style=for-the-badge&logo=express.js&logoColor=white" alt="node.js"/>
-     <img src="https://img.shields.io/badge/mongodb-2EC866?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb"/>
+</a>  
+<a href="https://www.mongodb.com/" target="_blank">
+      <img src="https://img.shields.io/badge/mongodb-2EC866?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb"/>
+</a> 
+<a href="https://nodejs.org/" target="_blank">
+       <img src="https://img.shields.io/badge/nodejs-2EC866?style=for-the-badge&logo=node.js&logoColor=white" alt="node.js"/>
+</a>  
+<a href="https://expressjs.com/" target="_blank">
+ <img src="https://img.shields.io/badge/expressjs-2EC866?style=for-the-badge&logo=express.js&logoColor=white" alt="express"/>
+</a>    
+ 
 </div>
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/640px-Unofficial_JavaScript_logo_2.svg.png" alt="JavaScript" height="50" /></a>  
-<a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Antu_mongodb.svg/640px-Antu_mongodb.svg.png" alt="MongoDB" height="50" /></a> 
-<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/640px-Node.js_logo.svg.png" alt="Node.js" height="50" /></a>  
 
-<a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://img.icons8.com/?size=40&id=WNoJgbzDr3i2&format=png" alt="Express.js" height="50" /></a>    
+
 </div>
 </td>
   </tr>
