@@ -86,7 +86,8 @@
       <img src="https://img.shields.io/badge/mongodb-2EC866?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb"/>
 </a> 
 <a href="https://nodejs.org/" target="_blank">
-       <img src="https://img.shields.io/badge/nodejs-2EC866?style=for-the-badge&logo=node.js&logoColor=white" alt="node.js"/>
+      <img alt="Node.js" src="https://img.shields.io/node/v-lts/:packageName">
+
 </a>  
 <a href="https://expressjs.com/" target="_blank">
  <img src="https://img.shields.io/badge/expressjs-2EC866?style=for-the-badge&logo=express.js&logoColor=white" alt="express"/>
