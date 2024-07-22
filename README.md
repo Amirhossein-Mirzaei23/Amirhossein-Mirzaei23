@@ -47,7 +47,7 @@
   </a> 
 
 <a href="https://sass-lang.com/" target="_blank">
-    <img src="https://img.shields.io/badge/saas-3a464b?style=for-the-badge&logo=saas&logoColor=pink" alt="saas"/>
+    <img src="https://img.shields.io/badge/saas-ff3399?style=for-the-badge&logo=saas&logoColor=pink" alt="saas"/>
 </a>
   <a href="https://www.tailwindcss.com/" target="_blank">
   <img src="https://img.shields.io/badge/tailwindcss-3a464b?style=for-the-badge&logo=tailwindcss&logoColor=sky" alt="tailwindcss"/>
