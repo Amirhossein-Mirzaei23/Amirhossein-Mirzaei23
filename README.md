@@ -55,8 +55,8 @@
   <a href="https://boostrap.com/" target="_blank">
   <img src="https://img.shields.io/badge/bootstrap 5-ccccff?style=for-the-badge&logo=bootstrap&logoColor=sky" alt="bootstrap"/>
 </a>  
-  <a href="https://boostrap.com/" target="_blank">
-  <img src="https://img.shields.io/badge/quasar-ccccff?style=for-the-badge&logo=quasar" alt="quasar"/>
+  <a href="https://boostrap.com/" target="_blank">  
+  <img src="https://img.shields.io/badge/quasar-333?style=for-the-badge&logo=quasar&logoColor=#3333ff" alt="quasar"/>
 </a>  
   <a href="https://quasar.dev/" target="_blank"><img style="margin: 10px" src="https://cdn.quasar.dev/logo-v2/svg/logo-dark.svg" height="30" /></a>  
   <img src="https://img.shields.io/badge/javascript-3a464b?style=for-the-badge&logo=javascript&logoColor=yellow" alt="javascript"/>
