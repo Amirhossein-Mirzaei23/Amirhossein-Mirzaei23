@@ -46,12 +46,10 @@
   <img src="https://img.shields.io/badge/vuejs-2EC866?style=for-the-badge&logo=vue.js&logoColor=white" alt="vue.js"/>
   <img src="https://img.shields.io/badge/nuxtjs-2EC866?style=for-the-badge&logo=nuxt.js&logoColor=white" alt="nuxt.js"/>
 </div>
-<div>
-    <img src="https://img.shields.io/badge/nodejs-2EC866?style=for-the-badge&logo=node.js&logoColor=white" alt="node.js"/>
-   <img src="https://img.shields.io/badge/expressjs-2EC866?style=for-the-badge&logo=express.js&logoColor=white" alt="node.js"/>
-</div>
+
 
 <div  align="center" >  
+  
   <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/640px-HTML5_logo_and_wordmark.svg.png" alt="HTML5" height="50" /></a>  
   <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/640px-CSS3_logo_and_wordmark.svg.png" alt="CSS3" height="50" /></a> 
 <a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" alt="Tailwind CSS" height="50" /></a>  
@@ -71,6 +69,12 @@
 
 
 <div align="center" >  
+  <div>
+      <img src="https://img.shields.io/badge/javascript-3a464b?style=for-the-badge&logo=javascript&logoColor=dark" alt="javascript"/>
+    <img src="https://img.shields.io/badge/nodejs-2EC866?style=for-the-badge&logo=node.js&logoColor=white" alt="node.js"/>
+   <img src="https://img.shields.io/badge/expressjs-2EC866?style=for-the-badge&logo=express.js&logoColor=white" alt="node.js"/>
+     <img src="https://img.shields.io/badge/mongodb-2EC866?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb"/>
+</div>
 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/640px-Unofficial_JavaScript_logo_2.svg.png" alt="JavaScript" height="50" /></a>  
 <a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Antu_mongodb.svg/640px-Antu_mongodb.svg.png" alt="MongoDB" height="50" /></a> 
 <a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/640px-Node.js_logo.svg.png" alt="Node.js" height="50" /></a>  
