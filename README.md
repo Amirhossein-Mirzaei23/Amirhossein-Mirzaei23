@@ -46,8 +46,10 @@
   <img src="https://img.shields.io/badge/vuejs-2EC866?style=for-the-badge&logo=vue.js&logoColor=white" alt="vue.js"/>
   <img src="https://img.shields.io/badge/nuxtjs-2EC866?style=for-the-badge&logo=nuxt.js&logoColor=white" alt="nuxt.js"/>
 </div>
-
-
+<div>
+    <img src="https://img.shields.io/badge/nodejs-2EC866?style=for-the-badge&logo=nuxt.js&logoColor=white" alt="node.js"/>
+   <img src="https://img.shields.io/badge/experessjs-2EC866?style=for-the-badge&logo=nuxt.js&logoColor=white" alt="node.js"/>
+</div>
 
 <div  align="center" >  
   <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/640px-HTML5_logo_and_wordmark.svg.png" alt="HTML5" height="50" /></a>  
