@@ -39,8 +39,13 @@
     <td>
 
 <div id="badges">
-  <img src="https://img.shields.io/badge/HTML-FF5722?style=for-the-badge&logo=HTML5&logoColor=white" alt="html"/>
-  <img src="https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=CSS3&logoColor=white" alt="css"/>
+   <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank">
+   <img src="https://img.shields.io/badge/HTML-FF5722?style=for-the-badge&logo=HTML5&logoColor=white" alt="html"/>
+  </a>  
+  <a href="https://www.w3schools.com/css/" target="_blank">
+      <img src="https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=CSS3&logoColor=white" alt="css"/>
+  </a> 
+
   <img src="https://img.shields.io/badge/javascript-3a464b?style=for-the-badge&logo=javascript&logoColor=yellow" alt="javascript"/>
   <img src="https://img.shields.io/badge/typescript-0747a6?style=for-the-badge&logo=typescript&logoColor=white" alt="typescript"/>
   <img src="https://img.shields.io/badge/vuejs-2EC866?style=for-the-badge&logo=vue.js&logoColor=white" alt="vue.js"/>
@@ -50,10 +55,13 @@
 
 <div  align="center" >  
   
-  <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/640px-HTML5_logo_and_wordmark.svg.png" alt="HTML5" height="50" /></a>  
-  <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/640px-CSS3_logo_and_wordmark.svg.png" alt="CSS3" height="50" /></a> 
-<a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" alt="Tailwind CSS" height="50" /></a>  
-<a href="https://sass-lang.com/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/640px-Sass_Logo_Color.svg.png" alt="Sass" height="50" /></a>
+
+<a href="https://www.tailwindcss.com/" target="_blank">
+  <img src="https://img.shields.io/badge/tailwindcss-3a464b?style=for-the-badge&logo=javascript&logoColor=yellow" alt="tailwindcss"/>
+</a>  
+<a href="https://sass-lang.com/" target="_blank">
+    <img src="https://img.shields.io/badge/saas-3a464b?style=for-the-badge&logo=javascript&logoColor=yellow" alt="saas"/>
+</a>
 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/640px-Unofficial_JavaScript_logo_2.svg.png" alt="JavaScript" height="50" /></a>  
 <a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/640px-Typescript_logo_2020.svg.png" alt="TypeScript" height="50" /></a>  
   <a href="https://quasar.dev/" target="_blank"><img style="margin: 10px" src="https://cdn.quasar.dev/logo-v2/svg/logo-dark.svg" height="50" /></a>  
