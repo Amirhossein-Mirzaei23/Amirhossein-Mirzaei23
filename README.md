@@ -63,7 +63,7 @@
   <img src="https://img.shields.io/badge/javascript-3a464b?style=for-the-badge&logo=javascript&logoColor=yellow" alt="javascript"/>
   <img src="https://img.shields.io/badge/typescript-0747a6?style=for-the-badge&logo=typescript&logoColor=white" alt="typescript"/>
   <img src="https://img.shields.io/badge/vuejs-2EC866?style=for-the-badge&logo=vue.js&logoColor=white" alt="vue.js"/>
-  <img src="https://img.shields.io/badge/nuxtjs-2EC866?style=for-the-badge&logo=nuxt.js&logoColor=white" alt="nuxt.js"/>
+  <img src="https://img.shields.io/badge/nuxtjs-#009933?style=for-the-badge&logo=nuxt.js&logoColor=white" alt="nuxt.js"/>
   <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/640px-Git_icon.svg.png" alt="Git" height="30" /></a>  
 </div>
 
