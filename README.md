@@ -18,7 +18,7 @@
 - 🌱 also I’m currently learning  socket.io  
   
 
-- ❓ Ask me about anything related to front end  and related technologies --> amirhmirzaei747@gmail.com  
+- ❓ Ask me about anything related to front end  and related technologies amirhmirzaei747@gmail.com  
   
 </div>
   
