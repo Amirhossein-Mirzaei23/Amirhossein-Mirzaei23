@@ -101,14 +101,13 @@
 <a href="https://www.mongodb.com/" target="_blank">
       <img src="https://img.shields.io/badge/mongodb-ccffcc?style=for-the-badge&logo=mongodb&logoColor=green" alt="mongodb"/>
 </a> 
-<a href="https://nodejs.org/" target="_blank">
-    <img alt="Node Current (with tag)" src="https://img.shields.io/badge/nodejs-2EC866?style=for-the-badge&logo=nodejs&logoColor=white" />
-
-
-</a>  
 <a href="https://expressjs.com/" target="_blank">
  <img src="https://img.shields.io/badge/expressjs-2EC866?style=for-the-badge&logo=express.js&logoColor=white" alt="express"/>
-</a>    
+</a>   
+<a href="https://nodejs.org/" target="_blank">
+    <img alt="Node Current (with tag)" src="https://img.shields.io/badge/nodejs-2EC866?style=for-the-badge&logo=nodejs&logoColor=white" />
+</a>  
+ 
  
 </div>
 
