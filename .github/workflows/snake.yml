@@ -38,7 +38,7 @@ jobs:
 
 
             
-            - color_snake: '#8b0000'  # Customize snake color
+            color_snake: '#8b0000'  # Customize snake color
             color_snake_tail: '#2b0101'  # Customize snake tail color
           
       # push the content of <build_dir> to a branch
