@@ -2,10 +2,10 @@
 
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
 
- <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="300">
+
 <h1 align="left">Hi, I'm Amirhossein Mirzaei   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px"> </h1>
 
- 
+  <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="300">
 <div>
   <div  align="left"  >A full-time front end  developer  working  since 2023 🚀  </div>
   
