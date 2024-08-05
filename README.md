@@ -153,6 +153,10 @@
 <img src="https://komarev.com/ghpvc/?username=Amirhossein-Mirzaei23&&style=flat-square" align="center" />
 </div>  
 
+<div align="center" >
+  <img alt="github contribution snake animation" src="https://github.com/SamaneYaghoobi/SamaneYaghoobi/blob/output/github-contribution-grid-snake.svg">
+</div
+
 </div>
 
 
