@@ -76,7 +76,7 @@
 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/640px-Unofficial_JavaScript_logo_2.svg.png" alt="JavaScript" height="50" /></a>  
 <a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/640px-Typescript_logo_2020.svg.png" alt="TypeScript" height="50" /></a>  
   <a href="https://quasar.dev/" target="_blank"><img style="margin: 10px" src="https://cdn.quasar.dev/logo-v2/svg/logo-dark.svg" height="50" /></a>  
-    <a href="https://vuetifyjs.com/en/" target="_blank"><img style="margin: 10px" src="https://cdn.vuetify.dev/logo-v2/svg/logo-dark.svg" height="50" /></a>  
+    <a href="https://vuetifyjs.com/en/" target="_blank"><img style="margin: 10px" src="https://coderomeos.org/storage/uploads/images/posts/vuetify-material-component-framework-5a8dc1db11384.png" height="50" /></a>  
 <a href="https://vuejs.org/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/640px-Vue.js_Logo_2.svg.png" alt="Vue.js" height="50" /></a>  
 <a href="https://nuxtjs.org/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Logo_Nuxt_%282023%29.svg/640px-Logo_Nuxt_%282023%29.svg.png" height="50" /></a>  
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/640px-Git_icon.svg.png" alt="Git" height="50" /></a>  
