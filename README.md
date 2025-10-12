@@ -9,9 +9,6 @@
   <div  align="left"  >A full-time front end  developer  working  since 2023 🚀  </div>
   
  <div width="50%" align="start">
-
-  
-
 - 🔭 I’m currently working on a full stack project  
   
 
