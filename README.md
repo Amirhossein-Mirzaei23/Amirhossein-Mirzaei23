@@ -12,7 +12,7 @@
 - 🔭 I’m currently working on a full stack project  
   
 
-- 🌱 also I’m currently learning NEXTJS
+- 🌱 also I’m currently learning Tanstack query
   
 
 - ❓ Ask me about anything related to front end  and related technologies amirhmirzaei747@gmail.com  
