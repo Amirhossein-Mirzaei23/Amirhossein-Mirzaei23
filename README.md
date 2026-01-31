@@ -9,10 +9,10 @@ Full-time Front-End Developer working since 2023 🚀
 
 <br/>
 
-- 🔭 Currently working on a Full-Stack project  
-- 🌱 Currently learning TanStack Query  
-- ❓ Ask me about Front-End technologies  
-📧 amirhmirzaei747@gmail.com  
+🔭 Currently I try to building full-stack applications using NestJS and React
+❓ Feel free to reach out for anything related to Front-End technologies  
+📧 amirhmirzaei747@gmail.com
+
 
 ---
 
