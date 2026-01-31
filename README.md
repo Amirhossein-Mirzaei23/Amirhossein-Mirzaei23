@@ -1,165 +1,120 @@
-<!--- <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="900"> --->
-<!---  <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" /> --->
+<h1 align="left">
+Hi, I'm Amirhossein Mirzaei 
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px">
+</h1>
 
-
-<h1 align="left">Hi, I'm Amirhossein Mirzaei   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px"> </h1>
-
-
-<div>
-  <div  align="left"  >A full-time front end  developer  working  since 2023 🚀  </div>
-  
- <div width="50%" align="start">
-- 🔭 I’m currently working on a full stack project  
-  
-
-- 🌱 also I’m currently learning Tanstack query
-  
-
-- ❓ Ask me about anything related to front end  and related technologies amirhmirzaei747@gmail.com  
-  
+<div align="left">
+Full-time Front-End Developer working since 2023 🚀
 </div>
-  
-</div>
-<br/>  
 
+<br/>
 
+- 🔭 Currently working on a Full-Stack project  
+- 🌱 Currently learning TanStack Query  
+- ❓ Ask me about Front-End technologies  
+📧 amirhmirzaei747@gmail.com  
 
+---
 
+### 💻 My Skill Set
 
-   ### 💻  <img align="center" src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30">  My Skill Set  :
 <table>
+<tr>
+<td>
 
-  <tr>
-    <td>
-
-<div id="badges">
-   <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank">
-   <img src="https://img.shields.io/badge/HTML-FF5722?style=for-the-badge&logo=HTML5&logoColor=white" alt="html"/>
-  </a>  
-  <a href="https://www.w3schools.com/css/" target="_blank">
-      <img src="https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=CSS3&logoColor=white" alt="css"/>
-  </a> 
-
-<a href="https://sass-lang.com/" target="_blank">
-    <img src="https://img.shields.io/badge/saas-ff3399?style=for-the-badge&logo=saas&logoColor=pink" alt="saas"/>
+<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank" rel="noopener noreferrer">
+<img src="https://img.shields.io/badge/HTML-FF5722?style=for-the-badge&logo=html5&logoColor=white"/>
 </a>
-  <a href="https://www.tailwindcss.com/" target="_blank">
-  <img src="https://img.shields.io/badge/tailwindcss-3a464b?style=for-the-badge&logo=tailwindcss&logoColor=sky" alt="tailwindcss"/>
-</a>  
-  <a href="https://boostrap.com/" target="_blank">
-  <img src="https://img.shields.io/badge/bootstrap 5-ccccff?style=for-the-badge&logo=bootstrap&logoColor=sky" alt="bootstrap"/>
-</a>  
-  <a href="https://boostrap.com/" target="_blank">  
-  <img src="https://img.shields.io/badge/quasar-333?style=for-the-badge&logo=quasar&logoColor=#3333ff" alt="quasar"/>
-</a>  
-  <a href="https://vuetifyjs.com/en/" target="_blank"><img style="margin: 10px" alt="vuetify" src="https://camo.githubusercontent.com/a0ced45811b4db53a64216db8f593317965ddec25dcd6db75ea6fdcdb3ae4664/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f567565746966792d3138363743303f7374796c653d666f722d7468652d6261646765266c6f676f3d76756574696679266c6f676f436f6c6f723d414544444646" height="30" /></a>  
-  <img src="https://img.shields.io/badge/javascript-3a464b?style=for-the-badge&logo=javascript&logoColor=yellow" alt="javascript"/>
-  <img src="https://img.shields.io/badge/typescript-0747a6?style=for-the-badge&logo=typescript&logoColor=white" alt="typescript"/>
-  <img src="https://img.shields.io/badge/vuejs-2EC866?style=for-the-badge&logo=vue.js&logoColor=white" alt="vue.js"/>
-  <img src="https://img.shields.io/badge/nuxtjs-009933?style=for-the-badge&logo=nuxt.js&logoColor=white" alt="nuxt.js"/>
-  <a href="https://github.com/" target="_blank"><img style="margin: 10px"
-  src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" height="30" /></a>  
-</div>
 
-<!------
-<div  align="center" >  
-  
-
-<a href="https://www.tailwindcss.com/" target="_blank">
-  <img src="https://img.shields.io/badge/tailwindcss-3a464b?style=for-the-badge&logo=javascript&logoColor=yellow" alt="tailwindcss"/>
-</a>  
-<a href="https://sass-lang.com/" target="_blank">
-    <img src="https://img.shields.io/badge/saas-3a464b?style=for-the-badge&logo=javascript&logoColor=yellow" alt="saas"/>
+<a href="https://www.w3schools.com/css/" target="_blank" rel="noopener noreferrer">
+<img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 </a>
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/640px-Unofficial_JavaScript_logo_2.svg.png" alt="JavaScript" height="50" /></a>  
-<a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/640px-Typescript_logo_2020.svg.png" alt="TypeScript" height="50" /></a>  
-  <a href="https://quasar.dev/" target="_blank"><img style="margin: 10px" src="https://cdn.quasar.dev/logo-v2/svg/logo-dark.svg" height="50" /></a>  
-  
-<a href="https://vuejs.org/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/640px-Vue.js_Logo_2.svg.png" alt="Vue.js" height="50" /></a>  
-<a href="https://nuxtjs.org/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Logo_Nuxt_%282023%29.svg/640px-Logo_Nuxt_%282023%29.svg.png" height="50" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/640px-Git_icon.svg.png" alt="Git" height="50" /></a>  
- 
-</div>
----->
+
+<a href="https://sass-lang.com/" target="_blank" rel="noopener noreferrer">
+<img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"/>
+</a>
+
+<a href="https://tailwindcss.com/" target="_blank" rel="noopener noreferrer">
+<img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+</a>
+
+<a href="https://getbootstrap.com/" target="_blank" rel="noopener noreferrer">
+<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+</a>
+
+<a href="https://quasar.dev/" target="_blank" rel="noopener noreferrer">
+<img src="https://img.shields.io/badge/Quasar-1976D2?style=for-the-badge&logo=quasar&logoColor=white"/>
+</a>
+
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/Vue-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Nuxt-00DC82?style=for-the-badge&logo=nuxt&logoColor=white"/>
+
+<a href="https://git-scm.com/" target="_blank" rel="noopener noreferrer">
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+</a>
+
 </td>
-  <td>
 
-    
+<td>
 
+<a href="https://www.mongodb.com/" target="_blank" rel="noopener noreferrer">
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+</a>
 
-<div align="center" >  
-  <div>
-  
-  <a href="https://www.javascript.com/" target="_blank">
-      <img src="https://img.shields.io/badge/Javascript-3a464b?style=for-the-badge&logo=javascript&logoColor=dark" alt="javascript"/>
-</a>  
-<a href="https://www.mongodb.com/" target="_blank">
-      <img src="https://img.shields.io/badge/Mongodb-ccffcc?style=for-the-badge&logo=mongodb&logoColor=green" alt="mongodb"/>
-</a> 
-<a href="https://expressjs.com/" target="_blank">
- <img src="https://img.shields.io/badge/Expressjs-2EC866?style=for-the-badge&logo=express.js&logoColor=white" alt="express"/>
-</a>   
-<a href="https://nodejs.org/" target="_blank">
-    <img alt="Node.js" src="https://img.shields.io/badge/Nodejs-2EC866?style=for-the-badge&logo=nodejs&logoColor=white" />
-</a>  
-<a href="https://nestjs.com/" target="_blank">
-    <img alt="Nest.js" src="https://img.shields.io/badge/Nestjs-2EC866?style=for-the-badge&logo=express.js&logoColor=white" />
-</a>  
- 
- 
-</div>
+<a href="https://expressjs.com/" target="_blank" rel="noopener noreferrer">
+<img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white"/>
+</a>
 
+<a href="https://nodejs.org/" target="_blank" rel="noopener noreferrer">
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+</a>
 
-</div>
+<a href="https://nestjs.com/" target="_blank" rel="noopener noreferrer">
+<img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white"/>
+</a>
+
 </td>
-  </tr>
+</tr>
 </table>
 
-<br/>  
+---
 
+## 🔥 Tech Focus
 
-## 🌐 Socials  
+- ⚡ **Nuxt / SSR / ISR / Hybrid Rendering**
+- 🚀 **Frontend Performance Optimization (Lighthouse, Web Vitals, Bundle Optimization)**
+- 🧩 **Large Scale Frontend Architecture**
+- 🎨 **Design System & Reusable Component Architecture**
+- 🔐 **Frontend Security Best Practices**
+- 📦 **State Management (Pinia, Vuex, TanStack Query)**
+- 🧪 **Unit Testing & Frontend Testing Strategies**
+
+---
+
+## 🌐 Socials
+
 <div align="center">
-<a href="https://github.com/Amirhossein-Mirzaei23" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+
+<a href="https://github.com/Amirhossein-Mirzaei23" target="_blank" rel="noopener noreferrer">
+<img src="https://img.shields.io/badge/GitHub-24292E?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-<a href="https://www.linkedin.com/in/amirhossein-mirzaeidev23" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+
+<a href="https://www.linkedin.com/in/amirhossein-mirzaeidev23" target="_blank" rel="noopener noreferrer">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-<a href="https://instagram.com/@amir.h_mirzaei" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>  
-</div>  
-  
 
-<br/>  
-
-
-## 📊 Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Amirhossein-Mirzaei23&show_icons=true&count_private=true&hide_border=true" align="center" /></div>
-
-
-<br/>  
-
-
-## Github Trophies
-
-<div align="center">
-   
-[![Trophies](https://github-profile-trophy.vercel.app/?username=Amirhossein-Mirzaei23&theme=matrix)]
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=Amirhossein-Mirzaei23&&style=flat-square" align="center" />
-</div>  
-
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Amirhossein-Mirzaei23/Amirhossein-Mirzaei23/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Amirhossein-Mirzaei23/Amirhossein-Mirzaei23/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Amirhossein-Mirzaei23/Amirhossein-Mirzaei23/output/github-contribution-grid-snake.svg">
-</picture>
-
+<a href="https://instagram.com/amir.h_mirzaei" target="_blank" rel="noopener noreferrer">
+<img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
 
 </div>
 
+---
 
+## 📊 GitHub Stats
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Amirhossein-Mirzaei23&show_icons=true&count_private=true&hide_border=true"/>
+</div>
