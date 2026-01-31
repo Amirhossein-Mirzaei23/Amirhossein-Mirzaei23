@@ -37,6 +37,13 @@ Full-time Front-End Developer working since 2023 🚀
 <a href="https://tailwindcss.com/" target="_blank" rel="noopener noreferrer">
 <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
 </a>
+<a href="https://vuetifyjs.com/" target="_blank" rel="noopener noreferrer">
+<img src="https://img.shields.io/badge/Vuetify-1867C0?style=for-the-badge&logo=vuetify&logoColor=white"/>
+</a>
+
+<a href="https://chakra-ui.com/" target="_blank" rel="noopener noreferrer">
+<img src="https://img.shields.io/badge/ChakraUI-319795?style=for-the-badge&logo=chakraui&logoColor=white"/>
+</a>
 
 <a href="https://getbootstrap.com/" target="_blank" rel="noopener noreferrer">
 <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
