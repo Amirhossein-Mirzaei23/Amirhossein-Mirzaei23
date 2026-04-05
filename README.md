@@ -96,7 +96,7 @@ Full-time Front-End Developer working since 2023 🚀
 - 🧩 **Large Scale Frontend Architecture**
 - 🎨 **Design System & Reusable Component Architecture**
 - 🔐 **Frontend Security Best Practices**
-- 📦 **State Management (Pinia, Vuex, TanStack Query)**
+- 📦 **State Management (Pinia, Vuex, Zustand)**
 - 🧪 **Unit Testing & Frontend Testing Strategies**
 
 ---
