@@ -17,8 +17,12 @@ Front-End Developer 🚀
 
 <br/>
 
+<div>
+
 -- ❓ Feel free to reach out for anything related to Front-End technologies  
 📧 amirhmirzaei747@gmail.com
+  
+</div>
 
 
 ---
