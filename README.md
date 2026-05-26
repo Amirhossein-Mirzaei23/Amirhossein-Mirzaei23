@@ -11,18 +11,17 @@ Front-End Developer 🚀
 
 
 <div>
-  -- 🔭 Currently I`m woring on full-stack applications using NestJS and React
+<div>
+    -- 🔭 Currently I`m woring on full-stack applications using NestJS and React
+</div>
 <a href="https://dongeto.site" target="_blank" rel="noopener noreferrer">
 🌐 dongeto.site
 </a>
 </div>
 <br/>
 
-<div>
 -- ❓ Feel free to reach out for anything related to Front-End technologies  
 📧 amirhmirzaei747@gmail.com
-</div>
-
 
 ---
 
