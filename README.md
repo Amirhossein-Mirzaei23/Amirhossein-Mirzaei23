@@ -18,6 +18,11 @@ Front-End Developer 🚀
 🌐 dongeto.site
 </a>
 </div>
+<div>
+    <a href="http://static.dongeto.site/uploads/releases/dongeto-main-v1.0.0.apk" target="_blank" rel="noopener noreferrer">
+        Dongeto Android App
+    </a>
+</div>
 <br/>
 
 -- ❓ Feel free to reach out for anything related to Front-End technologies  
