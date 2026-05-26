@@ -10,11 +10,11 @@ Front-End Developer 🚀
 <br/>
 
 -- 🔭 Currently I`m woring on full-stack applications using NestJS and React
-
+<div>
 <a href="https://dongeto.site" target="_blank" rel="noopener noreferrer">
 🌐 dongeto.site
 </a>
-
+</div>
 <br/>
 
 <div>
