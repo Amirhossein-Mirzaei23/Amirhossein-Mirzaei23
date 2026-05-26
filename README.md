@@ -4,7 +4,7 @@ Hi, I'm Amirhossein Mirzaei
 </h1>
 
 <div align="left">
-Full-time Front-End Developer working since 2023 🚀
+Front-End Developer 🚀
 </div>
 
 <br/>
