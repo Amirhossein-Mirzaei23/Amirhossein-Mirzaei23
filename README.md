@@ -20,8 +20,6 @@ Front-End Developer 🚀
 </div>
 <div>
     <a href="http://static.dongeto.site/uploads/releases/dongeto-main-v1.0.0.apk" target="_blank" rel="noopener noreferrer">
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-
         &#129302;
         Dongeto Android App
     </a>
