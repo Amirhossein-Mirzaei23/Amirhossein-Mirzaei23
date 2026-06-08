@@ -19,7 +19,7 @@ Front-End Developer 🚀
 </a>
 </div>
 <div>
-    <a href="http://static.dongeto.site/uploads/releases/dongeto-main-v1.0.0.apk" target="_blank" rel="noopener noreferrer">
+    <a href="https://cafebazaar.ir/app/com.dongeto.split" target="_blank" rel="noopener noreferrer">
         &#129302;
         Dongeto Android App
     </a>
