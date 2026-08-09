@@ -138,5 +138,11 @@ Front-End Developer 🚀
 ## 📊 GitHub Stats
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Amirhossein-Mirzaei23&show_icons=true&count_private=true&hide_border=true"/>
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=amirhossein-mirzaei&show_icons=true&theme=transparent&hide_border=true&rank_icon=github)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=amirhossein-mirzaei&theme=transparent&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amirhossein-mirzaei&layout=compact&theme=transparent&hide_border=true)
+
 </div>
