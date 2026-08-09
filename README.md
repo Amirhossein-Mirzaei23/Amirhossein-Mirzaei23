@@ -146,3 +146,30 @@ Front-End Developer 🚀
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amirhossein-mirzaei&layout=compact&theme=transparent&hide_border=true)
 
 </div>
+
+## 🐍 GitHub Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg"
+  />
+
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/Amirhossein-Mirzaei23/Amirhossein-Mirzaei23/output/github-contribution-grid-snake.svg"
+  />
+
+  <img
+    alt="GitHub Contribution Snake"
+    src="https://raw.githubusercontent.com/Amirhossein-Mirzaei23/Amirhossein-Mirzaei23/output/github-contribution-grid-snake.svg"
+  />
+</picture>
+
+</div>
+
+
+
+
