@@ -30,8 +30,8 @@ Front-End Developer 🚀
 
 <div>
    -- 📦 Featured Packages
-<a href="https://dongeto.site](https://www.npmjs.com/package/browser-boundary" target="_blank" rel="noopener noreferrer">
-    🔗 browser-boundary
+<a href="https://www.npmjs.com/package/browser-boundary" target="_blank" rel="noopener noreferrer">
+  🔗 browser-boundary
 </a>
 </div>
 
