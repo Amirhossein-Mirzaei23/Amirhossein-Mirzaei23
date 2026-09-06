@@ -94,10 +94,6 @@ Front-End Developer 🚀
 
 <td>
 
-<a href="https://www.mongodb.com/" target="_blank" rel="noopener noreferrer">
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-</a>
-
 <a href="https://expressjs.com/" target="_blank" rel="noopener noreferrer">
 <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white"/>
 </a>
@@ -108,6 +104,10 @@ Front-End Developer 🚀
 
 <a href="https://nestjs.com/" target="_blank" rel="noopener noreferrer">
 <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white"/>
+</a>
+
+<a href="https://www.postgresql.org/" target="_blank" rel="noopener noreferrer">
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
 </a>
 
 </td>
