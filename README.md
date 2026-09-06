@@ -65,6 +65,11 @@ Front-End Developer 🚀
 <a href="https://tailwindcss.com/" target="_blank" rel="noopener noreferrer">
 <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
 </a>
+
+<a href="https://git-scm.com/" target="_blank" rel="noopener noreferrer">
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+</a>
+
 <a href="https://vuetifyjs.com/" target="_blank" rel="noopener noreferrer">
 <img src="https://img.shields.io/badge/Vuetify-1867C0?style=for-the-badge&logo=vuetify&logoColor=white"/>
 </a>
@@ -88,10 +93,6 @@ Front-End Developer 🚀
 </a>
 <img src="https://img.shields.io/badge/Vue-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white"/>
 <img src="https://img.shields.io/badge/Nuxt-00DC82?style=for-the-badge&logo=nuxt&logoColor=white"/>
-
-<a href="https://git-scm.com/" target="_blank" rel="noopener noreferrer">
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-</a>
 
 </td>
 
